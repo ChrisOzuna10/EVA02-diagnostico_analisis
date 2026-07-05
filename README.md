@@ -1,1 +1,0 @@
-# EVA02-diagnostico_analisis
